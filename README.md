@@ -2,3 +2,4 @@
 
 # Stock Home
 
+A home stock control project designed to assist with planning and managing monthly grocery shopping.
